@@ -135,9 +135,6 @@ sequenceDiagram
 <img width="420" height="444" alt="Screenshot 2026-09-29 145649" src="https://github.com/user-attachments/assets/8da7662e-f456-45c1-b4db-b5ac7247f6b8" />
 
 
-| Positive | Negative |
-
-
 Each result shows the record number, time, SHA-256 image hash, record signature and the "presumptive only" disclaimer.
 
 ## Repository structure
