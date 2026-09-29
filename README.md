@@ -128,9 +128,9 @@ sequenceDiagram
 <img width="320" height="689" alt="Screenshot 2026-09-29 145603" src="https://github.com/user-attachments/assets/86bcc633-7319-469d-b547-4d82eadc7cf6" />
 
 
-<img src="docs/mobile-capture-screen.png" alt="HueProof capture screen on a phone with the yellow reference-card box, cyan test-patch box and a saved Positive record" width="320" height="689">
-
 **Results**
+
+
 <img width="420" height="467" alt="Screenshot 2026-09-29 145626" src="https://github.com/user-attachments/assets/cb584b49-7230-47be-b460-87eae1f762e0" />
 <img width="420" height="444" alt="Screenshot 2026-09-29 145649" src="https://github.com/user-attachments/assets/8da7662e-f456-45c1-b4db-b5ac7247f6b8" />
 
