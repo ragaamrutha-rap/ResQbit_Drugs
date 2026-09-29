@@ -136,8 +136,7 @@ sequenceDiagram
 
 
 | Positive | Negative |
-|---|---|
-| <img src="docs/result-positive.png" alt="Positive result with record number, time, image hash and signature" width="420" height="467"> | <img src="docs/result-negative.png" alt="Negative result with record number, time, image hash and signature" width="420" height="444"> |
+
 
 Each result shows the record number, time, SHA-256 image hash, record signature and the "presumptive only" disclaimer.
 
