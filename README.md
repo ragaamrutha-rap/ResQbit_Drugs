@@ -232,16 +232,7 @@ Never commit signing keys or `.env` files. Make sure they are listed in `.gitign
 - Support for more colour-based test kits
 - Record verification tool for labs and courts
 
-## Team
 
-*The people behind HueProof.*
 
-**ResQbit**, Smart India Hackathon 2026
 
-- TODO: team members and roles
 
-## License
-
-*How this code may be used.*
-
-TODO: choose a license (for example MIT) and add a `LICENSE` file.
